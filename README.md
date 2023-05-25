@@ -2,6 +2,10 @@
 
 ## An online shopping portal for a fictional store
 
+## Deployed Store (Netlify)
+
+[https://nates-store.netlify.app/](https://nates-store.netlify.app/)
+
 ### Business Requirements
 
 Our application will power an online storefront that will allow our users to browse our product offerings by category, place items in their shopping cart, and check-out when they are ready to make their purchase
@@ -9,6 +13,8 @@ Our application will power an online storefront that will allow our users to bro
 Live Example (Reference)
 
 [https://virtual-web-store.netlify.app/](https://virtual-web-store.netlify.app/)
+
+![Live Example Landing Page Screenshot](./img/readme/storefront_sample_landing_page.png)
 
 The core requirements and functionality are as follows:
 
